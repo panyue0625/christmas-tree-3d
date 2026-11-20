@@ -1,0 +1,4 @@
+# Lets visitors who cannot reach Google directly (e.g. mainland China) use the wish store through this site.
+/fs/*    https://firestore.googleapis.com/:splat        200
+/idt/*   https://identitytoolkit.googleapis.com/:splat  200
+/stk/*   https://securetoken.googleapis.com/:splat      200
