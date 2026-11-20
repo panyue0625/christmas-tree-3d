@@ -2,8 +2,6 @@
 
 An interactive 3D Christmas tree where people from anywhere in the world can hang ornaments, share wishes, and leave messages for each other.
 
-Every ornament carries a little story, and every visitor helps the tree grow.
-
 **[🎄 Visit the Christmas Tree](https://christmastree2026.netlify.app/)**
 
 ## ✨ Features
